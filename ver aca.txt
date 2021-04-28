@@ -1,0 +1,19 @@
+https://www.runhosting.com/
+RUNHOSTING
+
+
+https://cp1.awardspace.net/welcome/popup
+Ojo anda con una sola BBDD
+
+login
+namedb: 3069796_login
+user:3069796_login	
+pass:_C1nZp%g4k/}#!yg
+
+Products
+namedb:3069796_products
+user:3069796_products
+pass:8GeS0tme3#7y1~[#
+
+
+odoo no va php
